@@ -22,7 +22,7 @@ class Solution:
         
         while left<=right:
             
-            middle = left + (right-left)//2
+            middle = (right+left)//2
             
             if nums[middle] == target:
                 return middle
