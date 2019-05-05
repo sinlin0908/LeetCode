@@ -13,7 +13,8 @@
 - [26_Remove_Duplicates_from_Sorted_Array](./026_Remove_Duplicates_from_Sorted_Array)
 - [27_Remove_Element](./0027_Remove_Element)
 - [35_Search_Insert_Position](./0035_Search_Insert_Position)
-- [00053_Maximum_Subarray](./00053_Maximum_Subarray)
+- [53_Maximum_Subarray](./0053_Maximum_Subarray)
+- [58_Length_of_Last_Word](./0058_Length_of_Last_Word)
 
 ## 中級
 
